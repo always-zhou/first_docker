@@ -1,0 +1,7 @@
+fastapi==0.109.1
+uvicorn==0.27.0
+kafka-python==2.0.2
+psycopg2-binary==2.9.9
+pandas==2.1.4
+python-json-logger==2.0.7
+httpx==0.26.0
